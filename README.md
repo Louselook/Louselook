@@ -20,32 +20,6 @@ Soy un desarrollador de software y estudiante de último semestre de Ingeniería
 </div>
 ---
 
-### Proyectos Destacados
-
-- **Sistema Contable para Jhon Molinos**  
-  Desarrollo de un sistema de contabilidad a medida, con integración de APIs y validación de JWT en el frontend.
-
-- **Página Web Smartliving Colombia**  
-  Creación de un backend con FastAPI para gestionar operaciones CRUD en Supabase y despliegue mediante Render.
-
-- **Aplicación Universitaria de Recolección de Datos**  
-  Desarrollo de una app con Kivy y Firebase para capturar datos de sensores (acelerómetro y GPS) y analizar fuerzas en entornos de transporte.
-
-- **Aplicación para Psicólogo**  
-  App en Flutter que facilita la comunicación entre psicólogos y pacientes, permitiendo la asignación de tareas personalizadas y un espacio de interacción.
-
-- **Plataforma para Venta y Compra de Números de Lotería**  
-  Solución desarrollada con Flutter y Django, integrando autenticación mediante tokens, pasarelas de pago y manejo de accesos.
-
----
-
-### Experiencia Profesional
-
-- **Práctica Empresarial en Pagafacil (filial de Prosegur)**  
-  Realicé una práctica de 6 meses en el área de TI, desarrollando soluciones en Visual Studio con SQL Server y optimizando procesos mediante stored procedures.
-
----
-
 ### Educación
 
 - **Ingeniería en Sistemas Cibernéticos**  
@@ -59,8 +33,6 @@ Soy un desarrollador de software y estudiante de último semestre de Ingeniería
 - **Diseño & Creatividad:** Interés por el diseño gráfico y la creación de proyectos electrónicos con Arduino.
 - **Aprendizaje Continuo:** Me encanta leer, ver tutoriales y experimentar con nuevas tecnologías.
 - **Vida Activa:** Disfruto del deporte y la música, elementos que complementan mi pasión por la tecnología.
-
-*(Esta sección es un espacio abierto para que añadas o modifiques tus intereses personales con el tiempo)*
 
 ---
 ### Contáctame
