@@ -2,14 +2,16 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Hi!👋+I'm+Juan+Esteban+Arenilla+Buendia&repeat=0" alt="Header animation" />
 </h2>
 
-<div align="left" style="display: flex; align-items: center;">
-  <!-- GIF -->
-  <img src="https://media.giphy.com/media/ICOgUNjpvO0PC/giphy.gif" alt="Your GIF" width="300" />
-  
-  <div style="margin-left: 20px;">
+<!-- Contenedor con display flex para alinear el texto y el GIF -->
+<div style="display: flex; align-items: center;">
+  <!-- Texto About Me -->
+  <div style="margin-right: 20px;">
     <h3>About Me</h3>
     <p>I am a software developer and a final-year Cyber Systems Engineering student at Universidad de San Buenaventura, Medellín. I am passionate about technology, cybersecurity, IoT, and neural networks. I constantly seek new challenges that help me grow professionally and expand my knowledge in areas such as backend development (FastAPI), embedded device applications (C++ for Arduino), and C# solutions.</p>
   </div>
+  
+  <!-- GIF -->
+  <img src="https://media.giphy.com/media/ICOgUNjpvO0PC/giphy.gif" alt="Your GIF" width="300" />
 </div>
 
 ---
