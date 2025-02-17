@@ -17,9 +17,6 @@
 - :boom: You can check out my [LinkedIn](https://www.linkedin.com/in/juanes-arenilla-514a84265) or visit my [GitHub](https://github.com/Louselook).
 <br>
 
-
-## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/competitive_programming_profile.png?raw=true" width=40> </picture> My Competitive Programming Profiles
-
 ---
 ### My Skills
 <div align="left">
