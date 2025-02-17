@@ -14,6 +14,7 @@
   <img src="https://media.giphy.com/media/ICOgUNjpvO0PC/giphy.gif" alt="Your GIF" style="width: 300px; border-radius: 10px;" />
 </div>
 
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 ---
 ### My Skills
 <div align="left">
