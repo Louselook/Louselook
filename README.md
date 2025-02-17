@@ -3,16 +3,17 @@
 </h2>
 
 <!-- Contenedor con display flex para alinear el texto y el GIF -->
-<div style="display: flex; align-items: center;">
+<div style="display: flex; align-items: center; justify-content: flex-start;">
   <!-- Texto About Me -->
-  <div style="margin-right: 20px; display: flex;">
+  <div style="margin-right: 20px; flex: 1;">
     <h3>About Me</h3>
     <p>I am a software developer and a final-year Cyber Systems Engineering student at Universidad de San Buenaventura, Medellín. I am passionate about technology, cybersecurity, IoT, and neural networks. I constantly seek new challenges that help me grow professionally and expand my knowledge in areas such as backend development (FastAPI), embedded device applications (C++ for Arduino), and C# solutions.</p>
-  
-      <!-- GIF -->
-  <img src="https://media.giphy.com/media/ICOgUNjpvO0PC/giphy.gif" alt="Your GIF" width="300" />
   </div>
+
+  <!-- GIF -->
+  <img src="https://media.giphy.com/media/ICOgUNjpvO0PC/giphy.gif" alt="Your GIF" width="300" />
 </div>
+
 
 ---
 ### My Skills
