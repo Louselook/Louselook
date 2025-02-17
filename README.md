@@ -4,26 +4,11 @@
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
+## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/competitive_programming_profile.png?raw=true" width=40> </picture> My Competitive Programming Profiles
 <br><br>
 I am a software developer and a final-year Cyber Systems Engineering student at Universidad de San Buenaventura, Medellín. I am passionate about technology, cybersecurity, IoT, and neural networks. I constantly seek new challenges that help me grow professionally and expand my knowledge in areas such as backend development (FastAPI), embedded device applications (C++ for Arduino), and C# solutions.
 <br>
 
-
-
-
-
-<!-- Contenedor con display flex para alinear el texto y el GIF -->
-<div style="display: flex; align-items: center; gap: 20px;">
-  <!-- Texto About Me -->
-  <div style="flex: 1;">
-    <h3>About Me</h3>
-    ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
-    <p></p>
-  </div>
-
-  <!-- GIF -->
-  <img src="https://media.giphy.com/media/ICOgUNjpvO0PC/giphy.gif" alt="Your GIF" style="width: 300px; border-radius: 10px;" />
-</div>
 ---
 ### My Skills
 <div align="left">
