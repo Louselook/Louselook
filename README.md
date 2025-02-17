@@ -1,50 +1,36 @@
-<h2 align="left">¡Hola! 👋 Soy Juan Esteban Arenilla Buendia</h2>
-<h3 align="left">Soy un desarrollador de software apasionado por la tecnología, la seguridad cibernética y el IoT</h3>
+<h1 align="center">👨💻 Juan Esteban Arenilla Buendía</h1>
+<h3 align="center">Ingeniero en Sistemas Cibernéticos | FullStack Developer | IoT Enthusiast</h3>
 
 ###
 
-<h3 align="left">🛠️ Tecnologías y Herramientas</h3>
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30" alt="flutter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="30" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="30" alt="sqlite logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=🚀+Apasionado+por+la+innovación+tecnológica;🔐+Seguridad+Cibernética+y+Redes+Neuronales;🌐+Desarrollo+de+soluciones+IoT+integradas" alt="Header animation" />
 </div>
-
-###
-
-<h3 align="left">📢 Contáctame</h3>
-<div align="left">
-  <a href="mailto:juanes.arenilla@gmail.com">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
-  </a>
-  <a href="https://www.linkedin.com/in/juanes-arenilla-buendia">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
-  </a>
-  <a href="https://github.com/Louselook">
-    <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="github logo" />
-  </a>
-</div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Louselook/Louselook/output/snake.svg" alt="Snake animation" />
 
 ---
+
+### 👨🔧 Sobre Mí
+```python
+class Desarrollador:
+    def __init__(self):
+        self.nombre = "Juan Esteban Arenilla Buendía"
+        self.formacion = "Ingeniería en Sistemas Cibernéticos (Último semestre)"
+        self.especialidades = [
+            "Desarrollo FullStack", 
+            "Sistemas Embebidos",
+            "Soluciones IoT",
+            "Ciberseguridad"
+        ]
+        self.intereses = [
+            "🚀 Automatización de procesos",
+            "🧠 Redes Neuronales aplicadas",
+            "🔌 Hardware de código abierto",
+            "📡 Comunicaciones M2M"
+        ]
+    
+    def buscar_retos(self):
+        while True:
+            aprender(nuevas_tecnologías)
+            desarrollar(proyectos_innovadores)
+
+yo = Desarrollador()
