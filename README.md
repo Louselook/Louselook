@@ -1,62 +1,61 @@
-# ¡Hola, soy Juan Esteban Arenilla Buendia! 👋
+<h2 align="left">¡Hola! 👋 Soy Juan Esteban Arenilla Buendia</h2>
+<h3 align="left">Soy un desarrollador de software apasionado por la tecnología, la seguridad cibernética y el IoT</h3>
 
-Soy estudiante de último semestre de Ingeniería en Sistemas Cibernéticos y desarrollador apasionado por la tecnología. Me especializo en el desarrollo de aplicaciones backend con FastAPI, en la programación con C++ para Arduino y en la creación de aplicaciones de escritorio con C#. También cuento con experiencia en frontend utilizando React y en el desarrollo de aplicaciones móviles con Flutter.
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Louselook&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=es&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Louselook&locale=es&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+
+###
+
+<h3 align="left">🛠️ Tecnologías y Herramientas</h3>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30" alt="flutter logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="30" alt="firebase logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="30" alt="sqlite logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
+</div>
+
+###
+
+<h3 align="left">📢 Contáctame</h3>
+<div align="left">
+  <a href="mailto:juanes.arenilla@gmail.com">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
+  </a>
+  <a href="https://www.linkedin.com/in/juanes-arenilla-buendia">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
+  </a>
+  <a href="https://github.com/Louselook">
+    <img src="https://img.shields.io/static/v1?message=GitHub&logo=github&label=&color=181717&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="github logo" />
+  </a>
+</div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/Louselook/Louselook/output/snake.svg" alt="Snake animation" />
 
 ---
-
-## 🛠️ Habilidades Técnicas
-
-- **Lenguajes de Programación:** Python, C#, C++, JavaScript, Dart.
-- **Desarrollo Backend:** FastAPI, Django.
-- **Desarrollo Frontend:** React, Flutter.
-- **Bases de Datos:** SQL Server, SQLite, Firebase, Supabase.
-- **Hardware y Electrónica:** Diseño de circuitos, Arduino, ESP8266.
-- **Control de Versiones:** Git y GitHub.
-- **Otras Herramientas:** Diseño de PCB con KiCad.
-
----
-
-## 🚀 Proyectos Destacados
-
-- **Sistema Contable para Jhon Molinos:**  
-  Desarrollo de un sistema a la medida para contabilidad, integrando consumo de APIs y validación de JWT en el frontend.
-
-- **Página Web Smartliving Colombia:**  
-  Creación de un backend con FastAPI para realizar operaciones CRUD sobre una base de datos en Supabase, desplegado mediante Render.
-
-- **Aplicaciones Móviles y Freelancer:**  
-  - Aplicación universitaria de recolección de datos (usando Kivy y Firebase).  
-  - App para psicólogos con funciones de comunicación y asignación de tareas (Flutter y Firebase).  
-  - Plataforma para venta y compra de números de lotería, integrando pasarelas de pago y autenticación con tokens.
-
----
-
-## 💼 Experiencia Profesional
-
-- **Práctica Empresarial en Pagafacil (filial de Prosegur):**  
-  Desarrollo, diseño e implementación de soluciones utilizando Visual Studio y SQL Server, optimizando procesos mediante stored procedures.
-
----
-
-## 🎓 Educación
-
-- **Ingeniería en Sistemas Cibernéticos**  
-  Universidad de San Buenaventura, Medellín (en curso – Último semestre)
-
----
-
-## 📫 Contacto
-
-- **Correo:** [juanes.arenilla@gmail.com](mailto:juanes.arenilla@gmail.com)
-- **LinkedIn:** [Juan Esteban Arenilla Buendia](https://www.linkedin.com/in/juanes-arenilla-buendia)
-- **GitHub:** [Louselook](https://github.com/Louselook)
-
----
-
-## 📊 GitHub Stats
-
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Louselook&show_icons=true&theme=radical)](https://github.com/Louselook)
-
----
-
-¡Gracias por visitar mi perfil! Siempre estoy en la búsqueda de nuevos retos y colaboraciones en proyectos innovadores.
