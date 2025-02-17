@@ -3,17 +3,16 @@
 </h2>
 
 <!-- Contenedor con display flex para alinear el texto y el GIF -->
-<div style="display: flex; align-items: center; justify-content: flex-start;">
+<div style="display: flex; align-items: center; justify-content: space-between;">
   <!-- Texto About Me -->
-  <div style="margin-right: 20px; flex: 1;">
+  <div style="flex: 1; margin-right: 20px;">
     <h3>About Me</h3>
     <p>I am a software developer and a final-year Cyber Systems Engineering student at Universidad de San Buenaventura, Medellín. I am passionate about technology, cybersecurity, IoT, and neural networks. I constantly seek new challenges that help me grow professionally and expand my knowledge in areas such as backend development (FastAPI), embedded device applications (C++ for Arduino), and C# solutions.</p>
   </div>
 
   <!-- GIF -->
-  <img src="https://media.giphy.com/media/ICOgUNjpvO0PC/giphy.gif" alt="Your GIF" width="300" />
+  <img src="https://media.giphy.com/media/ICOgUNjpvO0PC/giphy.gif" alt="Your GIF" style="width: 300px; height: auto;" />
 </div>
-
 
 ---
 ### My Skills
@@ -34,7 +33,6 @@
     <img src="https://img.shields.io/static/v1?message=Arduino&logo=arduino&label=&color=00979D&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Arduino" />
 </div>
 
-
 <!-- snake -->
 <!-- <h2 align="center">🐍 My GitHub Contributions 🐍</h2> -->
 
@@ -42,9 +40,6 @@
     <img src="https://raw.githubusercontent.com/Louselook/Louselook/output/github-snake-dark.svg" alt="Snake animation" />
 <!--     <img src="https://raw.githubusercontent.com/Louselook/Louselook/output/github-snake.svg" alt="Snake animation" /> -->
 </p>
- 
-
-###
 
 ---
 ### Contact Me
