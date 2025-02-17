@@ -3,13 +3,20 @@
 </h2>
 
 <!-- About me -->
-### My Skills
----
+<div style="display: flex; align-items: center; justify-content: space-between;">
+  <div style="flex: 1; padding-right: 20px;">
+    <p>
+      I am a software developer and a final-year Cyber Systems Engineering student at Universidad de San Buenaventura, Medellín. I am passionate about technology, cybersecurity, IoT, and neural networks. I constantly seek new challenges that help me grow professionally and expand my knowledge in areas such as backend development (FastAPI), embedded device applications (C++ for Arduino), and C# solutions.
+    </p>
+  </div>
+  <div>
+    <picture>
+      <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="250px" alt="About me image"/>
+    </picture>
+  </div>
+</div>
 
-<br>
-<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
-I am a software developer and a final-year Cyber Systems Engineering student at Universidad de San Buenaventura, Medellín. I am passionate about technology, cybersecurity, IoT, and neural networks. I constantly seek new challenges that help me grow professionally and expand my knowledge in areas such as backend development (FastAPI), embedded device applications (C++ for Arduino), and C# solutions.
-<br><br>
+<hr>
 
 ---
 ### My Skills
@@ -31,12 +38,11 @@ I am a software developer and a final-year Cyber Systems Engineering student at 
 </div>
 
 <!-- snake -->
-<!-- <h2 align="center">🐍 My GitHub Contributions 🐍</h2> -->
-
 <p align="center">
     <img src="https://raw.githubusercontent.com/Louselook/Louselook/output/github-snake-dark.svg" alt="Snake animation" />
-<!--     <img src="https://raw.githubusercontent.com/Louselook/Louselook/output/github-snake.svg" alt="Snake animation" /> -->
 </p>
+
+<hr>
 
 ---
 ### Contact Me
@@ -52,6 +58,8 @@ I am a software developer and a final-year Cyber Systems Engineering student at 
   </a>
 </div>
 
+<hr>
+
 ---
 ### My Interests and Hobbies
 
@@ -59,5 +67,3 @@ I am a software developer and a final-year Cyber Systems Engineering student at 
 - **Design & Creativity:** Passionate about graphic design and creating electronic projects with Arduino.
 - **Continuous Learning:** I love reading, watching tutorials, and experimenting with new technologies.
 - **Active Lifestyle:** I enjoy sports and music, which complement my passion for technology.
-
----
