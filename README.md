@@ -1,5 +1,5 @@
 <h2 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=¡Hola+👋!+Soy+Juan+Esteban+Arenilla+Buendia;Desarrollador+FullStack+💻;Apasionado+por+IoT+y+Ciberseguridad+🔐&repeat=0" alt="Header animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=¡Hola+!+👋+Soy+Juan+Esteban+Arenilla+Buendia&repeat=0" alt="Header animation" />
 </h2>
 
 ### Acerca de mí
