@@ -3,15 +3,15 @@
 </h2>
 
 <!-- Contenedor con display flex para alinear el texto y el GIF -->
-<div style="display: flex; align-items: center; justify-content: space-between;">
+<div style="display: flex; align-items: center; gap: 20px;">
   <!-- Texto About Me -->
-  <div style="flex: 1; margin-right: 20px;">
+  <div style="flex: 1;">
     <h3>About Me</h3>
     <p>I am a software developer and a final-year Cyber Systems Engineering student at Universidad de San Buenaventura, Medellín. I am passionate about technology, cybersecurity, IoT, and neural networks. I constantly seek new challenges that help me grow professionally and expand my knowledge in areas such as backend development (FastAPI), embedded device applications (C++ for Arduino), and C# solutions.</p>
   </div>
 
   <!-- GIF -->
-  <img src="https://media.giphy.com/media/ICOgUNjpvO0PC/giphy.gif" alt="Your GIF" style="width: 300px; height: auto;" />
+  <img src="https://media.giphy.com/media/ICOgUNjpvO0PC/giphy.gif" alt="Your GIF" style="width: 300px; border-radius: 10px;" />
 </div>
 
 ---
