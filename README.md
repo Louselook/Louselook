@@ -12,7 +12,7 @@ I am a software developer and a final-year Cyber Systems Engineering student at 
 
 I am passionate about technology💻, cybersecurity🛡️, IoT, and neural networks.🧠
 
-I constantly seek new challenges that help me grow professionally and expand my knowledge in areas such as backend development (FastAPI), embedded device applications (C++ for Arduino), and C# solutions.⚙️🌐
+I constantly seek new challenges that help me grow professionally and expand my knowledge in areas such as backend development (FastAPI), embedded device applications (C++ for Arduino), and C# solutions.🌐☕
 
 <br><br>
 
