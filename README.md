@@ -7,7 +7,7 @@
 I am a software developer and a final-year Cyber Systems Engineering student at Universidad de San Buenaventura, Medellín. I am passionate about technology, cybersecurity, IoT, and neural networks. I constantly seek new challenges that help me grow professionally and expand my knowledge in areas such as backend development (FastAPI), embedded device applications (C++ for Arduino), and C# solutions.
 
 ---
-### Skills
+### My Skills
 <div align="left">
     <!-- Python -->
     <img src="https://img.shields.io/static/v1?message=Python&logo=python&label=&color=3776AB&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Python" />
