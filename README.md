@@ -19,7 +19,7 @@ I am a software developer and a final-year Cyber Systems Engineering student at 
 </div>
 
 <!-- snake -->
-<h2 align="center">🐍 Mis contribuciones en GitHub 🐍</h2>
+<h2 align="center">🐍 My GitHub Contributions 🐍</h2>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Louselook/Louselook/output/snake.svg" alt="Snake animation" />
