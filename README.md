@@ -76,17 +76,6 @@ Soy un desarrollador de software y estudiante de último semestre de Ingeniería
 
 *(Esta sección es un espacio abierto para que añadas o modifiques tus intereses personales con el tiempo)*
 
----
-
-### GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Louselook&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=es&hide_border=false" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Louselook&locale=es&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false" height="150" alt="Top Languages" />
-</div>
-
----
-
 ### Contáctame
 
 <div align="left">
