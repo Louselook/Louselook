@@ -7,14 +7,9 @@
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
-<br><br>
+<br>
 
-- :school: I am a `final-year student` at [Universidad de San Buenaventura, Medellín](https://www.usb.edu.co/).
-- :technologist: I am passionate about `technology`, `cybersecurity`, `IoT`, and `neural networks`.
-- :computer: I love working with `backend development` (FastAPI), `embedded device applications` (C++ for Arduino), and `C# solutions`.
-- :nerd_face: I constantly seek new challenges to `grow professionally` and expand my knowledge.
-- :thinking: I’m currently open to `new opportunities` in software development.
-- :boom: You can check out my [LinkedIn](https://www.linkedin.com/in/juanes-arenilla-514a84265) or visit my [GitHub](https://github.com/Louselook).
+I am a software developer and a final-year Cyber Systems Engineering student at Universidad de San Buenaventura, Medellín. I am passionate about technology, cybersecurity, IoT, and neural networks. I constantly seek new challenges that help me grow professionally and expand my knowledge in areas such as backend development (FastAPI), embedded device applications (C++ for Arduino), and C# solutions.
 <br>
 
 ---
