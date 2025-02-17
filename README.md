@@ -76,6 +76,7 @@ Soy un desarrollador de software y estudiante de último semestre de Ingeniería
 
 *(Esta sección es un espacio abierto para que añadas o modifiques tus intereses personales con el tiempo)*
 
+---
 ### Contáctame
 
 <div align="left">
