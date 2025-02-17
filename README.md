@@ -5,10 +5,10 @@
 <!-- About me -->
 ### My Skills
 ---
-<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 200px></picture>
+<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 <br>
 I am a software developer and a final-year Cyber Systems Engineering student at Universidad de San Buenaventura, Medellín. I am passionate about technology, cybersecurity, IoT, and neural networks. I constantly seek new challenges that help me grow professionally and expand my knowledge in areas such as backend development (FastAPI), embedded device applications (C++ for Arduino), and C# solutions.
-<br>
+<br><br>
 
 ---
 ### My Skills
