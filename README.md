@@ -4,6 +4,8 @@
 
 <!-- Contenedor con display flex para alinear el texto y el GIF -->
 <div style="display: flex; align-items: center;">
+    <!-- GIF -->
+  <img src="https://media.giphy.com/media/ICOgUNjpvO0PC/giphy.gif" alt="Your GIF" width="300" />
   <!-- Texto About Me -->
   <div style="margin-right: 20px;">
     <h3>About Me</h3>
