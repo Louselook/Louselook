@@ -1,8 +1,11 @@
 <h2 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Hi!👋+I'm+Juan+Esteban+Arenilla+Buendia&repeat=0" alt="Header animation" />
+  <img
+    src="https://readme-typing-svg.vercel.app?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=%C2%A1Hola!%F0%9F%91%8B+Soy+Juan+Esteban+Arenilla+Buend%C3%ADa&repeat=0"
+    alt="Header animation" />
 </h2>
 
-<!-- About me -->
+
+<!-- About me -->c
 ### About Me
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 <br>
